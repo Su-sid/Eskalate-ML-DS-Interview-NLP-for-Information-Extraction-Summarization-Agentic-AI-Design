@@ -239,13 +239,15 @@ news-intelligence-agent/
 │   │   └── abstractive_summarizer.py     # Keyword-driven
 │   ├── evaluation/
 │   │   └── comprehensive_evaluator.py    # Quality metrics
+│   ├── tools/
+│   │   └── agno_tools.py    # Agno Tools
 │   ├── agent/
 │   │   └── news_intelligence_agent.py    # Agno agent
 │   └── utils/
 │       └── document_searcher.py          # TF-IDF search
 ├── requirements.txt                       # Dependencies
 ├── README.md                             # This file
-└── report.pdf                           # Technical report
+└── System_report.md                           # Technical report
 ```
 
 ## Troubleshooting
